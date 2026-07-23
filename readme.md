@@ -7,3 +7,4 @@ This project is being built from scratch to learn Full Stack Development.
 - HTML
 - CSS
 - JavaScript
+ Now I have added many things many features and making this project as good as possible if anyone wants help just dm me on instagram. I will help you as soon as possible 
